@@ -13,7 +13,7 @@ This repository contains my internship report, presentation, and completion cert
 | Name | Niyati Mittal |
 | Role | Full Stack Intern |
 | Organization | Diverse Loopers |
-| Duration | 30 April 2025 – 30 July 2025 |
+| Duration | 30 April 2026 – 30 July 2026 |
 | Certificate Presented On | 01 August 2026 |
 | Reporting To | Ashish Kumar Tiwari (CMGO) |
 | GitHub | [@niyati23376](https://github.com/niyati23376) |
@@ -62,7 +62,7 @@ React.js · Next.js · JavaScript · HTML5 · CSS3 · Tailwind CSS · Node.js ·
 | Certificate Title | Certificate of Internship — Full Stack Intern |
 | Issued By | Diverse Loopers |
 | Signed By | Ashish Kumar Tiwari, CMGO |
-| Duration Covered | 30 April 2025 – 30 July 2025 |
+| Duration Covered | 30 April 2026 – 30 July 2026 |
 | Presented On | 01 August 2026 |
 
 📁 Repository Contents
